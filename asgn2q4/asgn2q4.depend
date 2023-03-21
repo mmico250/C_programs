@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1635264580 source:c:\users\micof\desktop\cs2263\asgn2q4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
